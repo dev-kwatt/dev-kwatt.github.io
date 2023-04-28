@@ -1,22 +1,15 @@
 {
   "files": {
-    "main.css": "https://cklandscaping.s3.amazonaws.com/static/css/main.25b1d051.css",
-    "main.js": "https://cklandscaping.s3.amazonaws.com/static/js/main.100f1e59.js",
-    "https://cklandscaping.s3.amazonaws.com/static/js/787.842d9c6d.chunk.js": "https://cklandscaping.s3.amazonaws.com/static/js/787.842d9c6d.chunk.js",
-    "https://cklandscaping.s3.amazonaws.com/static/media/SERV_MODIFIED.png": "https://cklandscaping.s3.amazonaws.com/static/media/SERV_MODIFIED.219366e75d562e5f1937.png",
-    "https://cklandscaping.s3.amazonaws.com/static/media/KT_MODIFIED.png": "https://cklandscaping.s3.amazonaws.com/static/media/KT_MODIFIED.1ffd0f384bbac96455b6.png",
-    "https://cklandscaping.s3.amazonaws.com/static/media/zg_lawnmower.jpg": "https://cklandscaping.s3.amazonaws.com/static/media/zg_lawnmower.8c67eae4aebf3125e6db.jpg",
-    "https://cklandscaping.s3.amazonaws.com/static/media/crescent_Kal_logo.png": "https://cklandscaping.s3.amazonaws.com/static/media/crescent_Kal_logo.3a8b560b2e7f4f7b5c69.png",
-    "https://cklandscaping.s3.amazonaws.com/static/media/ck_contact.png": "https://cklandscaping.s3.amazonaws.com/static/media/ck_contact.c7f435b46116bc35191a.png",
-    "https://cklandscaping.s3.amazonaws.com/static/media/ck_string_logo.png": "https://cklandscaping.s3.amazonaws.com/static/media/ck_string_logo.0265fc333da950d6d43f.png",
-    "https://cklandscaping.s3.amazonaws.com/static/media/ck_scroll.png": "https://cklandscaping.s3.amazonaws.com/static/media/ck_scroll.e9d46ed5b79239b5195d.png",
+    "main.css": "/static/css/main.20ad14c0.css",
+    "main.js": "/static/js/main.0d96a04f.js",
+    "static/js/787.842d9c6d.chunk.js": "/static/js/787.842d9c6d.chunk.js",
     "index.html": "/index.html",
-    "main.25b1d051.css.map": "https://cklandscaping.s3.amazonaws.com/static/css/main.25b1d051.css.map",
-    "main.100f1e59.js.map": "https://cklandscaping.s3.amazonaws.com/static/js/main.100f1e59.js.map",
-    "787.842d9c6d.chunk.js.map": "https://cklandscaping.s3.amazonaws.com/static/js/787.842d9c6d.chunk.js.map"
+    "main.20ad14c0.css.map": "/static/css/main.20ad14c0.css.map",
+    "main.0d96a04f.js.map": "/static/js/main.0d96a04f.js.map",
+    "787.842d9c6d.chunk.js.map": "/static/js/787.842d9c6d.chunk.js.map"
   },
   "entrypoints": [
-    "https://cklandscaping.s3.amazonaws.com/static/css/main.25b1d051.css",
-    "https://cklandscaping.s3.amazonaws.com/static/js/main.100f1e59.js"
+    "static/css/main.20ad14c0.css",
+    "static/js/main.0d96a04f.js"
   ]
 }
